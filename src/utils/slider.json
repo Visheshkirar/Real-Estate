@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Greenwood Residency",
+    "price": "52,50,000",
+    "detail": "Sector 76, Noida, Uttar Pradesh",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Lakeview Heights",
+    "price": "78,90,000",
+    "detail": "Bannerghatta Road, Bangalore, Karnataka",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "Palm Springs Apartment",
+    "price": "45,60,000",
+    "detail": "Viman Nagar, Pune, Maharashtra",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Silver Oak Residency",
+    "price": "62,75,000",
+    "detail": "Madhapur, Hyderabad, Telangana",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Orchid Greens",
+    "price": "89,30,000",
+    "detail": "Garia, Kolkata, West Bengal",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "Royal Heritage Villas",
+    "price": "1,25,00,000",
+    "detail": "Anna Nagar, Chennai, Tamil Nadu",
     "image": "./r3.png"
   }
 ]

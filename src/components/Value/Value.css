@@ -1,0 +1,94 @@
+.v-container .image-container{
+  border: 8px solid #163453;
+}
+
+.v-container>div{
+  flex:1;
+}
+
+.v-right{
+  gap: 0.5rem;
+
+}
+.accordion{
+  margin-top: 2rem;
+  border: none;
+  max-height: 400px;
+  width: 100%;
+  padding-left: 20px;
+
+}
+
+.accordionItem{
+  background: #163453;
+  border: 0.8px solid rgba(128,128,128,0.143);
+  width: 100%;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.accordionItem.expanded{
+  box-shadow: var(--shadow);
+  border-radius: 6px;
+}
+
+.accordionButton{
+  background: white;
+  padding: 1rem;
+  width: 100%;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.accordionButton .primaryText{
+  font-size: 1.5rem;
+}
+
+.icon{
+  padding: 10px;
+  background: #BFA181;
+  border-radius: 5px;
+  width: 2rem;
+}
+
+.icon svg{
+  fill: #163453;
+}
+
+.itemText{
+  color : #BFA181;
+  white-space: normal;
+  word-break: break-word;
+}
+
+.valueText {
+  color: #163453;
+  font-weight: bold;
+  font-size: 2rem;
+  padding-left: 20px;
+}
+
+.valuetextText {
+  color: rgb(140 139 139);
+  font-size: 0.9rem;
+  padding-left: 20px;
+}
+
+.guidingText {
+  color: #BFA181;
+  font-size: 1.5rem;
+  font-weight: 600;
+  padding-left: 20px;
+}
+
+@media (max-width:1024px){
+  .v-container{
+    flex-direction: column;
+  }
+  @media (max-width:768px){
+    .accordionButton .primaryText{
+      font-size: 0.8rem;
+    }
+  }
+}
